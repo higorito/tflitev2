@@ -1,0 +1,12 @@
+0 Maça
+1 Banana
+2 Laranja
+3 Pessoa
+4 Cavalo
+5 Cachorro
+6 Gato
+7 Carro
+8 Bicicleta
+9 Flor
+10 Fruta
+11 Avião
