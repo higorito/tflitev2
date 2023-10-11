@@ -7,10 +7,6 @@ Não utilizo conceitos avançados de Deep Learning, apenas o básico para que vo
 ## Como funciona?
 Você tem a opção de escolher uma imagem da galeria ou tirar uma foto. Após escolher a imagem, o modelo irá classificar a imagem e informar a probabilidade. Alguns casos o modelo pode errar, mas isso é normal, pois o modelo não é perfeito. Podemos melhorar o modelo com mais imagens e mais épocas de treinamento. Oberve alguns exemplos abaixo e também a acurácia do modelo por classe.:
 
-
-![alt text](images/3.png)
-![alt text](images/1.png)
-![alt text](images/2.png)
-![alt text](images/4.png)
-![alt text](images/5.png)
-![alt text](images/accClass.png)
+| ![Imagem 1](images/3.png) | ![Imagem 2](images/1.png) | ![Imagem 3](images/2.png) |
+| --- | --- | --- |
+| ![Imagem 4](images/4.png) | ![Imagem 5](images/5.png) | ![Imagem 6](images/accClass.png) |
